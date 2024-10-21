@@ -14,8 +14,6 @@
 
 Projeto desenvolvido com o intuito de facilitar a realização de trends de Mashup. Neste caso, combinando dois personagens diferentes para a criação de um novo.
 ---
-Tecnologias utilizadas:
-
 ## 📚 Seções
 
 O projeto é composto por duas seções:
