@@ -28,6 +28,6 @@ Para o desenvolvimento deste projeto utilizei as seguintes tecnologias:
 
 - HTML;
 - CSS;
-- JavaScript
+- JavaScript.
 
 ---
